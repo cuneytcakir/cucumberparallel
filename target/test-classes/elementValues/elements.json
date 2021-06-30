@@ -1,0 +1,18 @@
+[
+  {
+    "key": "kullanici_sec",
+    "value": "ant-select-selection-item",
+    "type": "css"
+  },
+  {
+    "key": "user_pkadmin",
+    "value": "div[title='EPİAŞ ADMIN'] > .ant-select-item-option-content",
+    "type": "css"
+  },
+  {
+    "key": "login_button",
+    "value": "ant-btn > span",
+    "type": "css"
+  }
+]
+
